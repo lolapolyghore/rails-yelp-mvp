@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+ a {
+  text-decoration: none;
+  color: rgb(72, 10, 55);
+  font-weight: bold;
+}
+
+a:hover {
+  color: rgb(154, 27, 120);
+}
+
+h2 {
+  color: rgb(72, 10, 55);
+  font-weight: bold;
+}
+
+.btn {
+  background-color: rgb(72, 10, 55);
+  color: white;
+  border-radius: 10px;
+  font-size: smaller;
+}
